@@ -1,2 +1,5 @@
 .idea/
 twitter-scripts-venv/
+dontpush.json
+test*
+__pycache__/
